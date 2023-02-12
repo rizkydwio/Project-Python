@@ -1,4 +1,4 @@
-*PROJECT PYTHON*
+**PROJECT PYTHON**
 
 Tujuan Pengerjaan Project
 1. Membuat sistem kasir yang self service
@@ -15,5 +15,5 @@ Module 'Project Python Final.ipynb' merupakan program yang akan dijalankan untuk
 Hasil Test Case
 1. Penambahan data baru
 
-
+![Uploading Screen Shot 2023-02-12 at 19.08.30.png…]()
 
