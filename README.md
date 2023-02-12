@@ -10,5 +10,5 @@ Tujuan Pengerjaan Project
 7. Menampilakn total belanjaan dengan beberapa kondisi  
 
 Deskripsi Taks
-Module 'project python final.py' merupakan program yang akan dijalankan untuk membuat sistem kasir  
+Module 'Project Python final.py' merupakan program yang akan dijalankan untuk membuat sistem kasir  
 
