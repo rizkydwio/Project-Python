@@ -17,19 +17,24 @@ Hasil Test Case
 <img width="453" alt="Screen Shot 2023-02-12 at 19 04 19" src="https://user-images.githubusercontent.com/119685518/218310539-28c72124-9900-4d91-a05a-224245c145c7.png">
 
 2. Memperbarui harga item Strawberry
-<img width="465" alt="Screen Shot 2023-02-12 at 19 04 25" src="https://user-images.githubusercontent.com/119685518/218310579-88ddce3a-79d3-4c76-a870-a30b4c44a580.png">
+<img width="464" alt="Screen Shot 2023-02-12 at 22 06 07" src="https://user-images.githubusercontent.com/119685518/218319083-b7b4ec93-ac6a-49b1-bb86-de88c99c66e9.png">
+
 
 3. Memperbarui jumlah item Jeruk
-<img width="461" alt="Screen Shot 2023-02-12 at 19 04 31" src="https://user-images.githubusercontent.com/119685518/218310626-99837dd2-ffc3-403f-b2a9-f2f8b909c62b.png">
+<img width="473" alt="Screen Shot 2023-02-12 at 22 06 14" src="https://user-images.githubusercontent.com/119685518/218319108-452b4410-ddb5-4841-8884-a4449e78e210.png">
+
 
 4. Mengubah nama item Jeruk menjadi Mangga
-<img width="487" alt="Screen Shot 2023-02-12 at 19 04 37" src="https://user-images.githubusercontent.com/119685518/218310652-38a56011-5535-4697-8e2b-3cf49febc395.png">
+<img width="462" alt="Screen Shot 2023-02-12 at 22 06 20" src="https://user-images.githubusercontent.com/119685518/218319125-56e75ed2-b29f-4159-a194-82325bcc7447.png">
+
 
 5. Menghapus item Apel
-<img width="464" alt="Screen Shot 2023-02-12 at 19 04 48" src="https://user-images.githubusercontent.com/119685518/218310694-a8bc3dbe-55f2-48f6-a3f6-71433a5a5bac.png">
+<img width="476" alt="Screen Shot 2023-02-12 at 22 06 28" src="https://user-images.githubusercontent.com/119685518/218319132-3e6d8c24-29aa-4300-8ae1-19d02706c3a2.png">
+
 
 6. Menjumlahkan total belanjaan dan total setelah diskon
-<img width="418" alt="Screen Shot 2023-02-12 at 19 08 26" src="https://user-images.githubusercontent.com/119685518/218310740-747d3178-2c54-4937-9acd-e17f158476f5.png">
+<img width="430" alt="Screen Shot 2023-02-12 at 22 06 32" src="https://user-images.githubusercontent.com/119685518/218319144-f6dffd77-5f22-4849-ac18-e8ff71c01a51.png">
+
 
 7. Mereset semua belanjaan
 <img width="186" alt="Screen Shot 2023-02-12 at 19 08 30" src="https://user-images.githubusercontent.com/119685518/218310762-4ea659ea-0ea8-4c09-9840-9440d580e0d0.png">
